@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.topbar{
+  background-color: #C0C0C0;
+}
+.popular-item{
+  height: 50px;
+}
+ /* Make the image fully responsive */
+ .carousel-inner img {
+    width: 100%;
+  }
+  .icon{
+    margin-left: 20px;
+  }
+  .card-group a{
+    text-decoration: none;
+    color: #494747;
+    font-family: Stencil Std, fantasy;
+  }
+  .carousel-caption{
+    color:white;
+    font-family: Stencil Std, fantasy;
+  }
+  .row .card{
+    border: none;
+  }
+  .row h1{
+     margin-left: 80px;
+  }
+  .row a{
+    font-family: fantasy;;
+    color: #000000;
+    text-decoration: none;
+  }
+  .card .img{
+    height: 100px;
+    width: 200px;
+    margin-left: 65px;
+    border-radius: 50%;
+  }
+   
